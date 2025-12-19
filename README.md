@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:904852749@qq.com">
-    <img src="https://img.shields.io/badge/904852749%40qq.com-red?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-904852749%40qq.com-red?logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/WeChat-chenyang-brightgreen?logo=wechat" />
 </p>
